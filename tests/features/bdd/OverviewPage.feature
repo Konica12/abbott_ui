@@ -33,8 +33,7 @@ Feature: User is able to navigate to the LibreView Patients Overview page
             | file                               | Inputrow |
             | ./tests/features/data/testData.csv | 1        |
             | ./tests/features/data/testData.csv | 2        |
-
-     @4         
+       
     Scenario Outline: User is able to change the selected Country and Language and verify header
         When I select the country from input "<file>" <Inputrow>
         And I select the language from input "<file>" <Inputrow>
