@@ -1,4 +1,4 @@
-# Abott-UI-Tests
+# Abbott-UI-Tests
 ## Pre-Requisites
 
 Download & Install below listed software: 
